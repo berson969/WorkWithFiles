@@ -1,5 +1,5 @@
 ## Домашнее задание к лекции «Открытие и чтение файла, запись в файл»
 
-* Выполнение задания 1 и 2 реализовано в файле [HomewokrFiles.py](/Users/prison/Projects/WorkWithFiles/HomeworkFiles.py). Также результат выводится одновременно и в терминал и записывается в файл <results.txt>
-* Выполнение задания  3 в файле [HomeworkTXT.py](/Users/prison/Projects/WorkWithFiles/HomeworkTXT.py).
-Результат записывается в файл <res.txt>
+* Выполнение задания 1 и 2 реализовано в файле [HomewokrFiles.py](/https://github.com/berson969/WorkWithFiles/blob/main/HomeworkFiles.py). Также результат выводится одновременно и в терминал и записывается в файл ``results.txt``
+* Выполнение задания  3 в файле [HomeworkTXT.py](https://github.com/berson969/WorkWithFiles/blob/main/HomeworkTXT.py).
+Результат записывается в файл `res.txt`
