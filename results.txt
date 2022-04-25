@@ -26,11 +26,11 @@ cook_book = {
 
 
 {
-	'Говядина ':{'measure': ' г', 'quantity': 1000},
-	'Перец сладкий ':{'measure': ' шт', 'quantity': 2},
-	'Лаваш ':{'measure': ' шт', 'quantity': 4},
-	'Винный уксус ':{'measure': ' ст.л', 'quantity': 2},
-	'Помидор ':{'measure': ' шт', 'quantity': 8},
-	'Яйцо ':{'measure': ' шт', 'quantity': 4},
-	'Молоко ':{'measure': ' мл', 'quantity': 200},
+	'Говядина ':{'measure': ' г', 'quantity': 2500},
+	'Перец сладкий ':{'measure': ' шт', 'quantity': 5},
+	'Лаваш ':{'measure': ' шт', 'quantity': 10},
+	'Винный уксус ':{'measure': ' ст.л', 'quantity': 5},
+	'Помидор ':{'measure': ' шт', 'quantity': 20},
+	'Яйцо ':{'measure': ' шт', 'quantity': 10},
+	'Молоко ':{'measure': ' мл', 'quantity': 500},
 }

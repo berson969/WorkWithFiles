@@ -4,13 +4,13 @@
 import os
 
 
-FILE_PATH_RES = os.path.join(os.getcwd(),'WorkWithFiles','res.txt')
+FILE_PATH_RES = os.path.join(os.getcwd(), 'res.txt')
 
 with open(FILE_PATH_RES, 'w') as rs:
     rs.write('')
 
 def read_files(file):
-    FILE_PATH = os.path.join(os.getcwd(),'WorkWithFiles',file)
+    FILE_PATH = os.path.join(os.getcwd(), file)
     with open(FILE_PATH, 'r') as f:
         file_for_read = f.readlines()
         len_ = len(file_for_read)
